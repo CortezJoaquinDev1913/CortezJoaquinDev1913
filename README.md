@@ -8,7 +8,7 @@
 </p>
 
 <p align="center">
-  <a href="https://TU-URL-DE-NETLIFY">
+  <a href="https://welcomehommiestomyportfolio.netlify.app/">
     <img src="https://img.shields.io/badge/PORTFOLIO-Joaqu%C3%ADn%20Developer%20System-6fae2a?style=for-the-badge&labelColor=1b2025" alt="Ver mi portfolio" />
   </a>
 </p>
